@@ -28,7 +28,7 @@ FROM
 WHERE
     market_code = 'Mark001';
     
-#Show transactions where currency is US dollars
+# Show transactions where currency is US dollars
 SELECT 
     *
 FROM
